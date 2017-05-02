@@ -1,0 +1,3 @@
+# area94scoreboard
+
+HELLO.
